@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper below."
+title: "LISA: Linguistic and Statistical Analysis for AI-Generated Text Detection"
+type: software
+authors:
+  - family-names: Sen
+    given-names: Vaishnavi
+    affiliation: California State University, Northridge
+  - family-names: Hasan
+    given-names: Rashida
+    affiliation: California State University, Northridge
+repository-code: "https://github.com/codeghost12/LISA"
+url: "https://github.com/codeghost12/LISA"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Sen
+      given-names: Vaishnavi
+    - family-names: Hasan
+      given-names: Rashida
+  title: "A Feature-based Linguistic and Statistical Framework for AI-Generated Text Detection"
+  collection-title: "2025 International Conference on Machine Learning and Applications (ICMLA)"
+  year: 2025
+  start: 184
+  end: 191
+  doi: "10.1109/ICMLA66185.2025.00030"
+  url: "https://doi.org/10.1109/ICMLA66185.2025.00030"
